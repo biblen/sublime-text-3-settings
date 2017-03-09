@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"BufferScroll",
+		"Codecs33",
+		"ConvertToUTF8",
+		"EditorConfig",
+		"EJS",
+		"Emmet",
+		"GitGutter",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"TrailingSpaces"
+	]
+}
